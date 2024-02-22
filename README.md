@@ -79,6 +79,27 @@ No font file is provided in this repository, so you will have to get them in the
 You should find them in `[Game Directory]\Genshin Impact game\GenshinImpact_Data\StreamingAssets\MiHoYoSDKRes\HttpServerResources\font`.
 You can then copy these two TTF files without renaming them in the tool's directory.
 
+
+#### **`GICutscenes.bat`**
+
+In order to use `GICutscenes.bat`, you will need `ffmpeg.exe`. You can download it from [here](https://github.com/BtbN/FFmpeg-Builds/releases). Make sure its from `ffmpeg-master-latest-win64-gpl.zip`
+
+You also need the `Subtitle` Folder from Genshin Data. You can get it from [here](https://gitlab.com/Dimbreath/AnimeGameData).
+
+The folder Structure should be something like this:
+```bash
+GI-cutscenes-MP4-HARDSUBS/
+└── GenshinData/
+    └── Subtitle/
+        └── EN/
+            ├── files.srt
+            └── files.txt
+ffmpeg.exe
+```
+
+`GICutscenes.bat` only works on Windows. Upon opening the file, drag and drop the .usm file into the window, or manually type the path to the file and press enter. It will generate a `.mkv` file with all 4 languages in audio as well as Soft Subs. It then generates a `.mp4` file with [EN] Audio. The `.mp4` file will also include Hard Subs with the same styling as the `.mkv` video.
+
+
 ### 3. Commands
 
 There are 3 different commands available to be used on the files :
