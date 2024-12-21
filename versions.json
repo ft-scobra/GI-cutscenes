@@ -2,7 +2,7 @@
     "list": [{
             "key": 0,
             "version": "common",
-            "videos": ["Ambor_Readings", "battlePass", "ChangeWeather", "Cs_102106_Summon_Boy", "Cs_102106_Summon_Girl", "Cs_102203_BeforeBattle_Boy", "Cs_102203_BeforeBattle_Girl", "Cs_102205_AfterBattle_Boy", "Cs_102205_AfterBattle_Girl", "Cs_4131904_HaiDaoChuXian_Boy", "Cs_4131904_HaiDaoChuXian_Girl", "Cs_Activity_4141307_Fenghuajie_Boy", "Cs_Activity_4141307_Fenghuajie_Girl", "Cs_EQAST4101101_ASTER_OP", "Cs_EQAST4111412_ASTER_Lenard", "Cs_EQHDJ005_HaiDengJie_Boy", "Cs_EQHDJ005_HaiDengJie_Girl", "Cs_GY11030_GYPersonal", "Cs_LYAQ107_NingGuang", "Cs_LYAQ1112308_LongWangStroy", "Cs_MDAQ018_MDCityShow", "Cs_MDAQ019_DragonInCity_Boy", "Cs_MDAQ019_DragonInCity_Girl", "Cs_MDAQ071_Davalin_Boy", "Cs_MDAQ071_Davalin_Girl", "Cs_WDLQ004_VentiLegends", "Cs_WQDY1800026_Memories", "Cs_XLQ1110104_XiaoPersonal", "MDAQ001_OPNew_Part1", "MDAQ001_OPNew_Part2_PlayerBoy", "MDAQ001_OPNew_Part2_PlayerGirl", "MDAQ041", "Cs_200211_WanYeXianVideo", "MDAQ063_ZhaiXingYaSideB_Boy", "MDAQ063_ZhaiXingYaSideB_Girl", "Cs_YLLQ1012008_EulaShow"]
+            "videos": ["Ambor_Readings", "battlePass", "ChangeWeather", "Cs_102106_Summon_Boy", "Cs_102106_Summon_Girl", "Cs_102203_BeforeBattle_Boy", "Cs_102203_BeforeBattle_Girl", "Cs_102205_AfterBattle_Boy", "Cs_102205_AfterBattle_Girl", "Cs_4131904_HaiDaoChuXian_Boy", "Cs_4131904_HaiDaoChuXian_Girl", "Cs_Activity_4141307_Fenghuajie_Boy", "Cs_Activity_4141307_Fenghuajie_Girl", "Cs_EQAST4101101_ASTER_OP", "Cs_EQAST4111412_ASTER_Lenard", "Cs_EQHDJ005_HaiDengJie_Boy", "Cs_EQHDJ005_HaiDengJie_Girl", "Cs_GY11030_GYPersonal", "Cs_LYAQ107_NingGuang", "Cs_LYAQ1112308_LongWangStroy", "Cs_MDAQ018_MDCityShow", "Cs_MDAQ019_DragonInCity_Boy", "Cs_MDAQ019_DragonInCity_Girl", "Cs_MDAQ071_Davalin_Boy", "Cs_MDAQ071_Davalin_Girl", "Cs_WDLQ004_VentiLegends", "Cs_WQDY1800026_Memories", "Cs_XLQ1110104_XiaoPersonal", "MDAQ001_OPNew_Part1", "MDAQ001_OPNew_Part2_PlayerBoy", "MDAQ001_OPNew_Part2_PlayerGirl", "MDAQ041", "Cs_200211_WanYeXianVideo", "MDAQ063_ZhaiXingYaSideB_Boy", "MDAQ063_ZhaiXingYaSideB_Girl", "Cs_YLLQ1012008_EulaShow", "Video_Reunion_50"]
         }, {
             "key": 1946182291478952,
             "version": "2.0",
@@ -292,5 +292,95 @@
                     "version": "14022",
                     "videos": ["Cs_Fontaine_LQ140220701_FFF_Boy", "Cs_Fontaine_LQ140220701_FFF_Girl"]
                 }]
+        }, {
+            "encAudio": true,
+            "version": "4.6",
+            "videoGroups": [{
+                    "key": 1998169752264975,
+                    "version": "13038",
+                    "videos": ["Cs_Sumeru_LD130380801_TOS"]
+                }, {
+                    "key": 4714295614938178,
+                    "version": "14026",
+                    "videos": ["Cs_Fontaine_LQ140260501_BF_Boy", "Cs_Fontaine_LQ140260501_BF_Girl"]
+                }]
+        }, {
+            "encAudio": true,
+            "version": "4.7",
+            "videoGroups": [{
+                    "key": 9824816325372856,
+                    "version": "14034",
+                    "videos": ["Cs_Fontaine_LQ140340201_FN_Boy", "Cs_Fontaine_LQ140340201_FN_Girl"]
+                }, {
+                    "key": 1893134203499976,
+                    "version": "14027",
+                    "videos": ["Cs_Fontaine_LQ1402701_SSS"]
+                }, {
+                    "key": 9401046478399355,
+                    "version": "14030",
+                    "videos": ["Cs_Fontaine_LQ1403002_SSF"]
+                }]
+        }, {
+            "encAudio": true,
+            "version": "4.8",
+            "videoGroups": [{
+                    "key": 9311532710940438,
+                    "version": "40162",
+                    "videos": ["Cs_Fontaine_EQ4016215_FBMH_Boy", "Cs_Fontaine_EQ4016215_FBMH_Girl"]
+                }, {
+                    "key": 2855945556355921,
+                    "version": "14039",
+                    "videos": ["Cs_Fontaine_LQ1403901_Edg_Boy", "Cs_Fontaine_LQ1403901_Edg_Girl"]
+                }]
+        },{
+            "encAudio": true,
+            "version": "5.0",
+            "videoGroups": [{
+                    "key": 6659452093751363,
+                    "version": "5001",
+                    "videos": ["Cs_Natlan_AQ50011801_KDM_Boy", "Cs_Natlan_AQ50011801_KDM_Girl"]
+                }, {
+                    "key": 9957859833869437,
+                    "version": "5006",
+                    "videos": ["Cs_Natlan_AQ50061201_YSKJ_Boy", "Cs_Natlan_AQ50061201_YSKJ_Girl"]
+                }, {
+                    "key": 2176081463662665,
+                    "version": "15004",
+                    "videos": ["Cs_Natlan_LQ150041301_SSW_Boy", "Cs_Natlan_LQ150041301_SSW_Girl"]
+                }, {
+                    "key": 6626516507698299,
+                    "version": "5003",
+                    "videos": ["Cs_Natlan_AQ50030601_HDD", "CutScene_Natlan_AQ50030601_HDD"]
+                }, {
+                    "key": 7203629296638087,
+                    "version": "15010",
+                    "videos": ["Cs_Natlan_LQ150100901_DXGS_Boy", "Cs_Natlan_LQ150100901_DXGS_Girl"]
+                }
+			]
+        },{
+            "encAudio": true,
+            "version": "5.1",
+            "videoGroups": [{
+                    "key": 6074046639813995,
+                    "version": "15015",
+                    "videos": ["Cs_Natlan_LQ150150801_TLZL_Girl","Cs_Natlan_LQ150150801_TLZL_Boy"]
+                }, {
+                    "key": 9362292576596351,
+                    "version": "40168",
+                    "videos": ["Cs_Sumeru_EQ401681801_HCXY_Boy","Cs_Sumeru_EQ401681801_HCXY_Girl"]
+                }, {
+                    "key": 2331896333263116,
+                    "version": "5012",
+                    "videos": ["Cs_Natlan_AQ50120901_MVBT"]
+                }, {
+                    "key": 5157410093305611,
+                    "version": "5011",
+                    "videos": ["Cs_Natlan_AQ50113101_BSSU_Boy","Cs_Natlan_AQ50113101_BSSU_Girl"]
+                }, {
+                    "key": 2125660683040980,
+                    "version": "5013",
+                    "videos": ["Cs_Natlan_AQ50131101_AWFN_Boy","Cs_Natlan_AQ50131101_AWFN_Girl"]
+                }
+			]
         }]
 }

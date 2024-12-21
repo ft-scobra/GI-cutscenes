@@ -6,12 +6,13 @@ Able to extract the USM files, decrypt the tracks and convert them into readable
 The final MKV file can then be played like a small movie, with the subtitles correctly formatted like in the game.
 Sometimes, subtitles can be desynchronized with the audio, but that's also the case in game (and not this program's fault).
 
-#### Cutscenes from version 1.0 to 4.5 can be decrypted.
+#### Cutscenes from version 1.0 to 5.1 can be decrypted.
 *Also includes CBT3, which has the same files than the live version*
 
 If you want to extract newer cutscenes but the `versions.json` in the released zip is outdated, simply download the updated file in the project tree ([here](https://raw.githubusercontent.com/ToaHartor/GI-cutscenes/main/versions.json)) and replace the file.
 This file will be updated with the version key every time a new version drops.
 
+If some keys are not available yet, please check the pull requests to see if someone has already submitted them.
 
 ### Feel free to make a pull request if you have some keys unavailable in the versions file, any help is welcome on that part.
 
@@ -58,7 +59,7 @@ However, if you wish to use other merging solutions than the one integrated, you
 `appsettings.json` contains a configuration sample with the following keys :
 - "MkvMergePath" : The path where mkvmerge is installed. Leave it empty if you installed mkvtoolnix (the package/program providing mkvmerge) in the default path. However, change it to the path of the mkvmerge file in case you're using a different installation path or you're using the portable MKVToolNix version.
 - "FfmpegPath" : The path to the ffmpeg binary. Leave it empty if the binary is in the PATH of your operating system.
-- "SubsFolder" : The path of the folder containing the subtitles of the video divided into language folders. Default is "./GenshinData/Subtitle", the right folder if you copy [this repository](https://github.com/Dimbreath/GenshinData) in the same folder than the tool. You can follow the next section to clone the repository with the right path.
+- "SubsFolder" : The path of the folder containing the subtitles of the video divided into language folders. Default is "./GenshinData/Subtitle", the right folder if you copy [this repository](https://gitlab.com/Dimbreath/AnimeGameData) in the same folder than the tool. You can follow the next section to clone the repository with the right path.
 - "SubsStyle" : The style of the subtitles, according to the SubStation Alpha file format. If you need to modify the size, color or position, you can modify the parameters of it.
 
 #### Clone the subtitles repository
